@@ -13,6 +13,7 @@
             <mirrorOf>*</mirrorOf>
         </mirror>
     </mirrors>
+    <profiles>
     <profile>
       <id>nexus</id>
       <repositories>
